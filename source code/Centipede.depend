@@ -1,0 +1,627 @@
+# depslib dependency file v1.0
+1493345204 source:d:\c++ home work\centipede\asteroid.cpp
+	"Asteroid.h"
+	"collisioncheck.h"
+
+1493172452 d:\c++ home work\centipede\asteroid.h
+	"Textsureset.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"collisioncheck.h"
+	"grid.h"
+
+1493249864 d:\c++ home work\centipede\textsureset.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	<sstream>
+	"tools.h"
+
+1476939494 c:\mingw\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\begin_code.h
+
+1476939494 c:\mingw\include\sdl2\close_code.h
+
+1476939494 c:\mingw\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1476939494 c:\mingw\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451803973 c:\mingw\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1454366533 c:\mingw\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1491952775 d:\c++ home work\centipede\tools.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1492826050 d:\c++ home work\centipede\collisioncheck.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1493173325 d:\c++ home work\centipede\grid.h
+	"Textsureset.h"
+
+1493271251 source:d:\c++ home work\centipede\bullet.cpp
+	"Bullet.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Xwing.h"
+
+1493251702 d:\c++ home work\centipede\bullet.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Xwing.h"
+	"segement.h"
+
+1493173536 d:\c++ home work\centipede\xwing.h
+	"Textsureset.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"collisioncheck.h"
+
+1493104963 d:\c++ home work\centipede\segement.h
+	"Textsureset.h"
+	<string>
+	"collisioncheck.h"
+	<iostream>
+
+1492825964 source:d:\c++ home work\centipede\collisioncheck.cpp
+	"collisioncheck.h"
+
+1493248006 source:d:\c++ home work\centipede\fett.cpp
+	"fett.h"
+
+1493247172 d:\c++ home work\centipede\fett.h
+	"Textsureset.h"
+	<cstdlib>
+
+1493173535 source:d:\c++ home work\centipede\grid.cpp
+	"grid.h"
+
+1493274669 source:d:\c++ home work\centipede\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"object.h"
+	"initilization.h"
+	"Asteroid.h"
+
+1493282422 d:\c++ home work\centipede\object.h
+	"Bullet.h"
+	"Textsureset.h"
+	"Xwing.h"
+	"segement.h"
+	"text.h"
+	"Asteroid.h"
+	"star.h"
+	"fett.h"
+
+1493282448 d:\c++ home work\centipede\text.h
+	"Textsureset.h"
+	<string>
+
+1493158511 d:\c++ home work\centipede\star.h
+	"Textsureset.h"
+	<cstdlib>
+	"grid.h"
+
+1492824095 d:\c++ home work\centipede\initilization.h
+	"object.h"
+
+1493282906 source:d:\c++ home work\centipede\object.cpp
+	"Textsureset.h"
+	"Xwing.h"
+	"object.h"
+	"segement.h"
+
+1493174063 source:d:\c++ home work\centipede\segement.cpp
+	"segement.h"
+	"Textsureset.h"
+	<string>
+
+1493315721 source:d:\c++ home work\centipede\star.cpp
+	"star.h"
+
+1493282723 source:d:\c++ home work\centipede\text.cpp
+	"text.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1492726596 source:d:\c++ home work\centipede\textsureset.cpp
+	"Textsureset.h"
+	"globalv.h"
+
+1492394415 d:\c++ home work\centipede\globalv.h
+
+1493173639 source:d:\c++ home work\centipede\xwing.cpp
+	"Xwing.h"
+	"Textsureset.h"
+
+1493275451 source:d:\c++ home work\centipede\intilization.cpp
+	"Textsureset.h"
+	"initilization.h"
+	"object.h"
+	<SDL_ttf.h>
+	<sstream>
+
+1493588677 source:c:\users\gg\desktop\centipede\asteroid.cpp
+	"Asteroid.h"
+	"collisioncheck.h"
+
+1493588677 c:\users\gg\desktop\centipede\asteroid.h
+	"textureSet.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+	"collisioncheck.h"
+	"grid.h"
+
+1493588678 c:\users\gg\desktop\centipede\textureset.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	<SDL_ttf.h>
+	<sstream>
+	"tools.h"
+
+1493588678 c:\users\gg\desktop\centipede\tools.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1493591896 c:\users\gg\desktop\centipede\collisioncheck.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+
+1493588677 c:\users\gg\desktop\centipede\grid.h
+	"textureSet.h"
+
+1493588677 source:c:\users\gg\desktop\centipede\bullet.cpp
+	"Bullet.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Xwing.h"
+
+1493588677 c:\users\gg\desktop\centipede\bullet.h
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"Xwing.h"
+	"segment.h"
+
+1493588678 c:\users\gg\desktop\centipede\xwing.h
+	"textureSet.h"
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"collisioncheck.h"
+
+1493592237 c:\users\gg\desktop\centipede\segment.h
+	"textureSet.h"
+	<string>
+	"collisioncheck.h"
+	<iostream>
+
+1493588677 source:c:\users\gg\desktop\centipede\collisioncheck.cpp
+	"collisioncheck.h"
+
+1493588677 source:c:\users\gg\desktop\centipede\fett.cpp
+	"fett.h"
+
+1493588677 c:\users\gg\desktop\centipede\fett.h
+	"textureSet.h"
+	<cstdlib>
+
+1493588677 source:c:\users\gg\desktop\centipede\grid.cpp
+	"grid.h"
+
+1493589130 source:c:\users\gg\desktop\centipede\intilization.cpp
+	"textureSet.h"
+	"initilization.h"
+	"object.h"
+	<SDL_ttf.h>
+	<sstream>
+
+1493588677 c:\users\gg\desktop\centipede\initilization.h
+	"object.h"
+
+1493588677 c:\users\gg\desktop\centipede\object.h
+	"Bullet.h"
+	"textureSet.h"
+	"Xwing.h"
+	"segment.h"
+	"text.h"
+	"Asteroid.h"
+	"star.h"
+	"fett.h"
+
+1493588678 c:\users\gg\desktop\centipede\text.h
+	"textureSet.h"
+	<string>
+
+1493588677 c:\users\gg\desktop\centipede\star.h
+	"textureSet.h"
+	<cstdlib>
+	"grid.h"
+
+1493588677 source:c:\users\gg\desktop\centipede\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<stdio.h>
+	<string>
+	"object.h"
+	"initilization.h"
+	"Asteroid.h"
+
+1493592209 source:c:\users\gg\desktop\centipede\object.cpp
+	"textureSet.h"
+	"Xwing.h"
+	"object.h"
+	"segment.h"
+	"collisioncheck.h"
+
+1493588677 source:c:\users\gg\desktop\centipede\star.cpp
+	"star.h"
+
+1493588678 source:c:\users\gg\desktop\centipede\text.cpp
+	"text.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1493588678 source:c:\users\gg\desktop\centipede\xwing.cpp
+	"Xwing.h"
+	"textureSet.h"
+
+1493588677 source:c:\users\gg\desktop\centipede\segment.cpp
+	"segment.h"
+	"textureSet.h"
+	<string>
+
+1493592248 source:c:\users\gg\desktop\centipede\textureset.cpp
+	"textureSet.h"
+
